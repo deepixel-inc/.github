@@ -12,9 +12,9 @@ Our mission is to bridge the gap between the physical and digital worlds through
 
 Our mobile-optimized AI vision engine runs in real-time, providing granular tracking for:
 
+* **Face & Ear Tracking:** Advanced 3D pose estimation and landmark detection, even under heavy occlusion, perfect for eyewear and earrings.
 * **Finger Tracking:** Precise 21-keypoint detection for rings and gesture controls
 * **Wrist Tracking:** Accurate wrist 3D pose estimation for bracelets and watches AR implementation.
-* **Face & Ear Tracking:** Advanced 3D pose estimation and landmark detection, even under heavy occlusion, perfect for eyewear and earrings.
 * **Pose Estimation:** Full-body understanding for fitness, fashion, and human-computer interaction (HCI).
 * **Foot Tracking:** High-accuracy tracking for virtual shoe try-on and size recommendations.
 
