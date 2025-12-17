@@ -12,8 +12,9 @@ Our mission is to bridge the gap between the physical and digital worlds through
 
 Our mobile-optimized AI vision engine runs in real-time, providing granular tracking for:
 
-* ** Wrist & Hand Tracking:** Precise 21-keypoint detection for rings, bracelets, watches, and interactive gesture control.
-* **Face & Ear Tracking:** Advanced 6D pose estimation and landmark detection, even under heavy occlusion, perfect for eyewear and earrings.
+* **Finger Tracking:** Precise 21-keypoint detection for rings and gesture controls
+* **Wrist Tracking:** Accurate wrist 3D pose estimation for bracelets and watches AR implementation.
+* **Face & Ear Tracking:** Advanced 3D pose estimation and landmark detection, even under heavy occlusion, perfect for eyewear and earrings.
 * **Pose Estimation:** Full-body understanding for fitness, fashion, and human-computer interaction (HCI).
 * **Foot Tracking:** High-accuracy tracking for virtual shoe try-on and size recommendations.
 
@@ -45,7 +46,7 @@ We believe in empowering the developer community. Check out our open-source tool
 * **CES 2022 Innovation Awards** Honoree.
 * **KES 2021 Innovation Award** Winner.
 * **Intelligence Start-up Award** (Korea Intelligent Information Systems Society).
-* Backed by **Naver D2SF** and **SK Telecom**.
+* Backed by **Naver D2SF**
 
 ---
 
