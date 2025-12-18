@@ -61,7 +61,7 @@ Deepixel’s vision stack is built around the following principles:
 
 ### 👟 Foot Tracking
 - Foot landmark detection and orientation estimation
-- Supports size alignment and ground contact reasoning
+- Supports stabilization and occlusion handling
 - Designed for real-time footwear AR and biomechanics use cases
 
 ---
@@ -72,8 +72,10 @@ Deepixel’s vision stack is built around the following principles:
 * Learned geometric priors
 * Temporal filtering & motion consistency
 * Landmark-centric representations
+* Low-latency & light-weight model
 * ROI-based inference pipelines
-* Cross-platform deterministic behavior
+* Cross-platform compatibility
+
 
 These characteristics allow our models to remain **accurate, fast, and stable** even on constrained devices.
 
