@@ -2,6 +2,7 @@
 
 
 [![Deepixel](https://img.shields.io/badge/Deepixel-Visit%20Website-blue?style=flat-square)](https://www.deepixel.xyz)
+[![StyleAR](https://img.shields.io/badge/StyleAR-Visit%20Website-pink?style=flat-square)](https://www.stylear.ai)
 [![Get License](https://img.shields.io/badge/Get%20License-Contact%20Us-yellow)](#license)
 
 ## About Deepixel
