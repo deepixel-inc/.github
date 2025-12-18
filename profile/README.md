@@ -1,10 +1,8 @@
 # Deepixel : Real-time Visual Intelligence Algorithms
 
-![Computer Vision](asset/ai-computer-vision.avg)
-![Real Time](https://img.shields.io/badge/Inference-Real--Time-success)
-![Single Camera](https://img.shields.io/badge/Input-Single%20RGB%20Camera-orange)
-![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20iOS%20%7C%20Android-lightgrey)
-![Based In](https://img.shields.io/badge/Based%20In-Seoul%2C%20Korea-lightgrey)
+
+[![Deepixel](https://img.shields.io/badge/Deepixel-Visit%20Website-blue?style=flat-square)](https://www.deepixel.xyz)
+[![Get License](https://img.shields.io/badge/Get%20License-Contact%20Us-yellow)](#license)
 
 ## About Deepixel
 
