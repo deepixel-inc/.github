@@ -66,7 +66,7 @@ Deepixel’s vision stack is built around the following principles:
 
 ---
 
-## ⚙️ Algorithmic Characteristics
+## Algorithmic Characteristics
 
 * Monocular 3D reconstruction
 * Learned geometric priors
@@ -79,7 +79,7 @@ These characteristics allow our models to remain **accurate, fast, and stable** 
 
 ---
 
-## 📦 Repositories
+## Repositories
 
 | Repository | Description |
 |-----------|-------------|
@@ -90,7 +90,7 @@ These characteristics allow our models to remain **accurate, fast, and stable** 
 
 ---
 
-## 🏆 Recognition
+## Recognition
 
 Deepixel’s technology has been recognized internationally:
 
@@ -116,7 +116,7 @@ Our algorithms are designed to support:
 
 ---
 
-## 🤝 Collaboration
+## Collaboration
 
 We welcome collaboration with:
 
