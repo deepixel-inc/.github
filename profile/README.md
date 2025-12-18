@@ -103,7 +103,7 @@ These recognitions reflect our strength in **core vision algorithms**, not just 
 
 ---
 
-## Use Cases (Algorithm-Driven)
+## Use Cases
 
 Our algorithms are designed to support:
 
