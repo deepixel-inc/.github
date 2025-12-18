@@ -9,9 +9,9 @@
 
 **Deepixel** is a visual-intelligence deep-tech startup based in **Seoul, South Korea**, specializing in **real-time human understanding algorithms** using a **single RGB camera**.
 
-We design and optimize proprietary **computer vision** and **machine learning** pipelines that perform robust **3D pose estimation**, **high-precision landmark detection**, and **temporal tracking** on mobile and web environments.
+We design and optimize proprietary **computer vision** and **machine learning** pipelines that perform robust **3D pose estimation**, **high-precision landmark detection**, and **temporal tracking** across **mobile and web environments**.
 
-Our focus is on **algorithmic efficiency, stability, and accuracy** under real-world constraints.
+Deepixel operates a **fully in-house vision R&D stack**, covering **raw data acquisition**, **custom annotation pipelines**, **deep learning model design and training**, and **platform-specific optimization**. This end-to-end ownership allows us to tightly couple data, models, and inference pipelines, ensuring **algorithmic efficiency, stability, and accuracy under real-world constraints**, and enabling solutions that are precisely tailored to the needs of each vision problem and deployment platform.
 
 ---
 
