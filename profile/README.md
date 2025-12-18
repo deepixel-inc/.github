@@ -1,6 +1,6 @@
 # Deepixel : Real-time Visual Intelligence Algorithms
 
-![Computer Vision](https://img.shields.io/badge/AI-Computer%20Vision-blue)
+![Computer Vision](asset/ai-computer-vision.avg)
 ![Real Time](https://img.shields.io/badge/Inference-Real--Time-success)
 ![Single Camera](https://img.shields.io/badge/Input-Single%20RGB%20Camera-orange)
 ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20iOS%20%7C%20Android-lightgrey)
