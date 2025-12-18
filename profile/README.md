@@ -130,7 +130,4 @@ We welcome collaboration with:
 🌐 **https://www.deepixel.xyz**  
 📍 Seoul, Republic of Korea
 
----
-
-## 🏷 Topics
 
