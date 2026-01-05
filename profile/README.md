@@ -7,7 +7,7 @@
 
 ## About Deepixel
 
-**Deepixel** is a visual-intelligence deep-tech startup based in **Seoul, South Korea**, specializing in **real-time human understanding algorithms** using a **single RGB camera**.
+**Deepixel** is a visual-intelligence deep-tech startup specializing in **real-time human understanding algorithms** using a **single RGB camera**.
 
 We design and optimize proprietary **computer vision** and **machine learning** pipelines that perform robust **3D pose estimation**, **high-precision landmark detection**, and **temporal tracking** across **mobile and web environments**.
 
