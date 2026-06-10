@@ -92,6 +92,10 @@ These characteristics allow our models to remain **accurate, fast, and stable** 
 
 ---
 
+## Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=I8Z0XuLO9Qo)
+
 ## Recognition
 
 Deepixel’s technology has been recognized internationally:
