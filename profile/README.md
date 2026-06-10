@@ -5,6 +5,10 @@
 [![StyleAR](https://img.shields.io/badge/StyleAR-Visit%20Website-pink?style=flat-square)](https://www.stylear.ai)
 [![Get License](https://img.shields.io/badge/Get%20License-Contact%20Us-yellow)](#license)
 
+
+
+[![Watch the Deepixel video](https://img.youtube.com/vi/I8Z0XuLO9Qo/maxresdefault.jpg)](https://www.youtube.com/watch?v=I8Z0XuLO9Qo)
+
 ## About Deepixel
 
 **Deepixel** is a visual-intelligence deep-tech startup specializing in **real-time human understanding algorithms** using a **single RGB camera**.
@@ -91,10 +95,6 @@ These characteristics allow our models to remain **accurate, fast, and stable** 
 👉 See individual repositories for implementation details and benchmarks.
 
 ---
-
-## Demo Video
-
-[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=I8Z0XuLO9Qo)
 
 ## Recognition
 
